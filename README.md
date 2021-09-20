@@ -32,7 +32,7 @@
 </br>
 - 👀 Atualmente desenvolvendo alguns projetos próprios
 </br>
-- 🌱 Atualmente eu estou aprendendo Java, JavaScript, HTML e CSS no Entra21
+- 🌱 Estou aprendendo Java, JavaScript, HTML e CSS no programa Entra21
 
 ##
 
