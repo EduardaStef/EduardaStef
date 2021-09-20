@@ -27,10 +27,12 @@
   <a href="https://www.linkedin.com/in/eduarda-steffen-69b905208" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div></br>
 - 👋 Meu nome é Eduarda
-</br></br>
-- 👀 Atualmente trabalhando em alguns projetos próprios
-</br></br>
-- 🌱 Atualmente eu estou aprendendo Java, JavaScript, HTML e CSS
+</br>
+-🪐  Desenvolvedora indie nas horas vagas
+</br>
+- 👀 Atualmente desenvolvendo alguns projetos próprios
+</br>
+- 🌱 Atualmente eu estou aprendendo Java, JavaScript, HTML e CSS no Entra21
 
 ##
 
