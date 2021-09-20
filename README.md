@@ -25,12 +25,11 @@
   <a href="https://instagram.com/duarda.oie" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:eduarda.steffen@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/eduarda-steffen-69b905208" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
-</br>
+</div></br>
 - 👋 Meu nome é Eduarda
-</br>
-- 👀 Eu sempre tive o sonho de aprender a programar desde muito jovem
-</br>
+</br></br>
+- 👀 Atualmente trabalhando em alguns projetos próprios
+</br></br>
 - 🌱 Atualmente eu estou aprendendo Java, JavaScript, HTML e CSS
 
 ##
