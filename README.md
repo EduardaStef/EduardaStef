@@ -1,4 +1,6 @@
-### Oie, bem vindo ao meu perfil!
+<h1><b><img height="30" src="https://cdn.discordapp.com/emojis/850096077977157684.gif?v=1">
+Oie! Bem Vindo(a) ao meu Perfil
+<img height="30" src="https://cdn.discordapp.com/emojis/850096077977157684.gif?v=1"></h1>
 
  <div>
   <a href="https://github.com/eduardastef">
@@ -26,13 +28,13 @@
   <a href = "mailto:eduarda.steffen@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/eduarda-steffen-69b905208" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div></br>
-- 👋 Meu nome é Eduarda
+- <img height="25" src="https://cdn.discordapp.com/emojis/852610761243361292.gif?v=1"> Meu nome é Eduarda
 </br>
--🪐  Desenvolvedora indie nas horas vagas
+- <img height="25" src="https://cdn.discordapp.com/emojis/853135695878684753.gif?v=1"> Desenvolvedora indie nas horas vagas
 </br>
-- 👀 Atualmente desenvolvendo alguns projetos próprios
+- <img height="25" src="https://cdn.discordapp.com/emojis/852610850288435220.gif?v=1"> Atualmente desenvolvendo alguns projetos próprios
 </br>
-- 🌱 Estou aprendendo Java, JavaScript, HTML e CSS no programa Entra21
+- <img height="25" src="https://cdn.discordapp.com/emojis/852610941086597200.gif?v=1"> Estou aprendendo Java, JavaScript, HTML e CSS no programa Entra21
 
 ##
 
