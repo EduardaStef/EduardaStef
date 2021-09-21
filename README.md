@@ -5,6 +5,17 @@
  <div>
   <a href="https://github.com/eduardastef">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduardastef&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_title=true"/>
+  
+   <html lang="en" onclick="pular()">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <div id="game">
+        <div id="personagem"></div>
+        <div id="quadrado"></div>
+    </div>
+<src="script.js">
+</html>
+   
 </div>
 
   ##
