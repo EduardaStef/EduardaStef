@@ -1,6 +1,6 @@
 <h1><b><img height="30" src="https://cdn.discordapp.com/emojis/850096077977157684.gif?v=1">
  <i>Oie! Bem Vindo(a) ao meu Perfil</i>
-<img height="30" src="https://cdn.discordapp.com/emojis/850096077977157684.gif?v=1"></h1>
+<img height="30" src="https://cdn.discordapp.com/emojis/850096077977157684.gif?v=1"></b></h1>
 
  <div>
   <a href="https://github.com/eduardastef">
@@ -11,7 +11,7 @@
 
   ##
   
-### <img height="30" src="https://cdn.discordapp.com/emojis/822146859376050196.gif?v=1"> <b>Estudando no Momento <img height="30" src="https://cdn.discordapp.com/emojis/822146859376050196.gif?v=1">
+### <img height="30" src="https://cdn.discordapp.com/emojis/822146859376050196.gif?v=1"> <b>Estudando no Momento</b> <img height="30" src="https://cdn.discordapp.com/emojis/822146859376050196.gif?v=1">
   <img align="center" alt="Duda-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Duda-Jv" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   <img align="center" alt="Duda-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -21,7 +21,7 @@
 
 ##
 
-  ### <img height="30" src="https://cdn.discordapp.com/emojis/822146858545578044.gif?v=1">  <b>Linguagens que mais uso  <img height="30" src="https://cdn.discordapp.com/emojis/822146858545578044.gif?v=1">
+  ### <img height="30" src="https://cdn.discordapp.com/emojis/822146858545578044.gif?v=1">  <b>Linguagens que mais uso</b>  <img height="30" src="https://cdn.discordapp.com/emojis/822146858545578044.gif?v=1">
    <img height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardastef&layout=compact&langs_count=7&theme=tokyonight&hide_title=true"/></br>
    <img src="https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white" target="_blank"></a>
   
@@ -34,7 +34,7 @@
 
 ##
 
- ### <img height="30" src="https://cdn.discordapp.com/emojis/852722847075270716.gif?v=1">Outras Redes Sociais <img height="30" src="https://cdn.discordapp.com/emojis/852722847075270716.gif?v=1">
+ ### <img height="30" src="https://cdn.discordapp.com/emojis/852722847075270716.gif?v=1"> <b>Outras Redes Sociais</b> <img height="30" src="https://cdn.discordapp.com/emojis/852722847075270716.gif?v=1">
   <a href="https://instagram.com/duarda.oie" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:eduarda.steffen@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/eduarda-steffen-69b905208" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> </br>
