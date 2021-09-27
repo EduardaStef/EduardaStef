@@ -8,7 +8,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduardastef&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_title=true"/>
    <img height="150" src="https://media.discordapp.net/attachments/767080390241812540/889857636604997712/teste.gif">
 </div>
-
+ 
   ##
   
 ### <img height="30" src="https://cdn.discordapp.com/emojis/822146859376050196.gif?v=1"> <b>Estudando no Momento</b> <img height="30" src="https://cdn.discordapp.com/emojis/822146859376050196.gif?v=1">
