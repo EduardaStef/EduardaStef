@@ -1,6 +1,6 @@
 <h1><b><img height="30" src="https://cdn.discordapp.com/emojis/850096077977157684.gif?v=1">
  <i>Oie, Bem Vindo(a) ao meu Perfil!</i>
-<img height="30" src="https://cdn.discordapp.com/emojis/850096077977157684.gif?v=1"></b></h1>
+<img height="30" src="https://cdn.discordapp.com/emojis/850096077977157684.gif?v=1"></b></h1> 
 
  <div>
   <a href="https://github.com/eduardastef">
