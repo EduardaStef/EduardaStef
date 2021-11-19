@@ -21,7 +21,7 @@
 
 ##
 
-  ### <img height="30" src="https://cdn.discordapp.com/emojis/822146858545578044.gif?v=1">  <b>Linguagens que mais uso</b>  <img height="30" src="https://cdn.discordapp.com/emojis/822146858545578044.gif?v=1">
+  ### <img height="30" src="https://cdn.discordapp.com/emojis/822146858545578044.gif?v=1">  <b>Linguagens e IDEs que mais uso</b>  <img height="30" src="https://cdn.discordapp.com/emojis/822146858545578044.gif?v=1">
    <img height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardastef&layout=compact&langs_count=7&theme=tokyonight&hide_title=true"/></br>
    <img src="https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white" target="_blank"></a>
    ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
