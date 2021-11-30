@@ -43,7 +43,7 @@
 ##
 <div>
  <img height="150" src="https://media.discordapp.net/attachments/767080390241812540/889857636604997712/teste.gif">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=EduardaStef&theme=tokyonight" width="600">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=EduardaStef&theme=tokyonight" width="500">
  <img height="150" src="https://media.discordapp.net/attachments/767080390241812540/889857636604997712/teste.gif">
  </div>
 
