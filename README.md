@@ -41,5 +41,10 @@
   <a href="https://www.linkedin.com/in/eduarda-steffen-69b905208" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> </br>
   
 ##
+<div>
+ <img height="150" src="https://media.discordapp.net/attachments/767080390241812540/889857636604997712/teste.gif">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=EduardaStef&theme=tokyonight" width="600">
+ <img height="150" src="https://media.discordapp.net/attachments/767080390241812540/889857636604997712/teste.gif">
+ </div>
 
 ![Snake animation](https://github.com/eduardaStef/eduardaStef/blob/output/github-contribution-grid-snake.svg)
