@@ -27,7 +27,7 @@
    ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
   
  ##
- 
+  
 - <img height="25" src="https://cdn.discordapp.com/emojis/850096080121102386.gif?v=1"> Meu nome é Eduarda
 - <img height="25" src="https://cdn.discordapp.com/emojis/853135695878684753.gif?v=1"> Desenvolvedora indie nas horas vagas
 - <img height="25" src="https://cdn.discordapp.com/emojis/852610850288435220.gif?v=1"> Atualmente desenvolvendo alguns projetos próprios
