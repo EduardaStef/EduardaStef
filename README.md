@@ -55,6 +55,12 @@
   
  ##
   
+  <div align="center"> 
+
+<img height="35" src="https://cdn.discordapp.com/attachments/767080390241812540/924023159093612634/unknown.png"> </a>
+ 
+ </div>
+  
 - <img height="25" src="https://cdn.discordapp.com/emojis/850096080121102386.gif?v=1"> Meu nome é Eduarda
 - <img height="25" src="https://cdn.discordapp.com/emojis/853135695878684753.gif?v=1"> Desenvolvedora indie nas horas vagas
 - <img height="25" src="https://cdn.discordapp.com/emojis/852610850288435220.gif?v=1"> Atualmente desenvolvendo alguns projetos próprios
