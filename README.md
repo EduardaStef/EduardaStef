@@ -52,6 +52,7 @@
    <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white" target="_blank"></a>
    <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" target="_blank"></a>
    
+
   
  ##
   
@@ -65,7 +66,6 @@
 - <img height="25" src="https://cdn.discordapp.com/emojis/853135695878684753.gif?v=1"> Desenvolvedora indie nas horas vagas
 - <img height="25" src="https://cdn.discordapp.com/emojis/852610850288435220.gif?v=1"> Atualmente desenvolvendo alguns projetos próprios
 - <img height="25" src="https://cdn.discordapp.com/emojis/852610941086597200.gif?v=1"> Estagiária na Senior Sistemas
-
 
 ##
 <div align="center">
