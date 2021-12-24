@@ -4,6 +4,9 @@
 <img height="30" src="https://cdn.discordapp.com/emojis/850096077977157684.gif?v=1"></b></h1> 
 
  <div>
+  
+  <img height="40" src="https://forthebadge.com/images/badges/contains-17-coffee-cups.svg"> </a>
+  
   <a href="https://github.com/eduardastef">
    <img height="150" src="https://media.discordapp.net/attachments/767080390241812540/889857636604997712/teste.gif">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=eduardastef&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_title=true"/>
