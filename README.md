@@ -19,14 +19,23 @@
   <img align="center" alt="Duda-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Duda-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Duda-Ps" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="Duda-Angular" height="30" width="40" src="https://icongr.am/devicon/angularjs-original.svg?size=128&color=currentColor">
+  <img align="center" alt="Duda-Docker" height="40" width="50" src="https://icongr.am/devicon/docker-original.svg?size=128&color=currentColor">
   <img align="right" alt="Duda-wink" height="250" width="250" src="https://cdn.discordapp.com/attachments/767080390241812540/889600754082525264/ezgif-4-5c1576ab5a58.gif">
 
 ##
 
-  ### <img height="30" src="https://cdn.discordapp.com/emojis/822146858545578044.gif?v=1">  <b>Linguagens e IDEs que mais uso</b>  <img height="30" src="https://cdn.discordapp.com/emojis/822146858545578044.gif?v=1">
+  ### <img height="30" src="https://cdn.discordapp.com/emojis/822146858545578044.gif?v=1">  <b>Linguagens e Ferramentas que mais uso</b>  <img height="30" src="https://cdn.discordapp.com/emojis/822146858545578044.gif?v=1">
    <img height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardastef&layout=compact&langs_count=7&theme=tokyonight&hide_title=true"/></br>
    <img src="https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white" target="_blank"></a>
+   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" target="_blank"></a>
    ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
+   <a href="https://angular.io" target="_blank"> <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="angularjs" width="100" height="28"/> </a> </br>
+   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" target="_blank"></a>
+   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" target="_blank"></a>
+   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" target="_blank"></a>
+   
+   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
   
  ##
   
