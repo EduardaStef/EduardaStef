@@ -32,17 +32,19 @@
   
 ##
 
+ <div align="center">
+ 
   ### <img height="30" src="https://cdn.discordapp.com/emojis/822146858545578044.gif?v=1">  <b>Linguagens e Ferramentas que mais uso</b>  <img height="30" src="https://cdn.discordapp.com/emojis/822146858545578044.gif?v=1">
-   <img height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardastef&layout=compact&langs_count=7&theme=tokyonight&hide_title=true"/></br>
+   <img height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardastef&layout=compact&langs_count=7&theme=tokyonight&hide_title=true"/>
+   </div></br>
+   
    <img src="https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white" target="_blank"></a>
    <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" target="_blank"></a>
    <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" target="_blank"></a>
-   </br>
-   <a href="https://angular.io" target="_blank"> <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="angularjs"             width="100" height="28"/> </a>
+   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" target="_blank"></a>
    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" target="_blank"></a>
    <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" target="_blank"></a>
    <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" target="_blank"></a>
-   </br>
    <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" target="_blank"></a>
    <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white" target="_blank"></a>
    <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" target="_blank"></a>
