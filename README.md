@@ -56,9 +56,9 @@
  ##
   
 - <img height="25" src="https://cdn.discordapp.com/emojis/850096080121102386.gif?v=1"> Meu nome é Eduarda
-- <img height="25" src="https://cdn.discordapp.com/emojis/853135695878684753.gif?v=1"> Desenvolvedora indie nas horas vagas
-- <img height="25" src="https://cdn.discordapp.com/emojis/852610850288435220.gif?v=1"> Atualmente desenvolvendo alguns projetos próprios
-- <img height="25" src="https://cdn.discordapp.com/emojis/852610941086597200.gif?v=1"> Estagiária na Senior Sistemas
+- <img height="25" src="https://cdn.discordapp.com/emojis/853135695878684753.gif?v=1"> Artista nas horas vagas
+- <img height="25" src="https://cdn.discordapp.com/emojis/852610850288435220.gif?v=1"> Atualmente cursando o 3° ano do ensino médio
+- <img height="25" src="https://cdn.discordapp.com/emojis/852610941086597200.gif?v=1"> Desenvolvedora na Senior Sistemas
 
 ##
 <div align="center">
