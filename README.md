@@ -43,14 +43,6 @@
    <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white" target="_blank"></a>
    <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" target="_blank"></a>
    <!-- <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" target="_blank"></a> -->
-   
- ##
-  
-- <img height="25" src="https://cdn.discordapp.com/emojis/850096080121102386.gif?v=1"> Meu nome é Eduarda
-- <img height="25" src="https://cdn.discordapp.com/emojis/853135695878684753.gif?v=1"> Artista nas horas vagas
-- <img height="25" src="https://cdn.discordapp.com/emojis/852610850288435220.gif?v=1"> Atualmente cursando o 3° ano do ensino médio
-- <img height="25" src="https://cdn.discordapp.com/emojis/852610941086597200.gif?v=1"> Desenvolvedora na Senior Sistemas
-
 ##
 <div align="center">
  
