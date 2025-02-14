@@ -10,7 +10,7 @@
  
  ##
 
- ### <img height="30" src="https://cdn.discordapp.com/emojis/822146859376050196.gif?v=1"> <b>Estudando no Momento</b> <img height="30" src="https://cdn.discordapp.com/emojis/822146859376050196.gif?v=1">
+ ### <img height="20" src="https://cdn.discordapp.com/emojis/765324288580124712.webp?size=128&animated=true"> <b>Estudando no Momento</b> <img height="20" src="https://cdn.discordapp.com/emojis/765324288580124712.webp?size=128&animated=true">
  <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
  <img alt="Kubernetes" src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white"/> 
  <img alt="Heroku" src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white"/>
@@ -30,7 +30,7 @@
    
  ##
 
- ### <img height="30" src="https://cdn.discordapp.com/emojis/822146859376050196.gif?v=1"> <b>Tenho Conhecimento Em</b> <img height="30" src="https://cdn.discordapp.com/emojis/822146859376050196.gif?v=1">
+ ### <img height="20" src="https://cdn.discordapp.com/emojis/822146859376050196.gif?v=1"> <b>Tenho Conhecimento Em</b> <img height="20" src="https://cdn.discordapp.com/emojis/822146859376050196.gif?v=1">
  <h4>Frameworks</h4>
  <img alt="Angular" src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"/>
  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" target="_blank"></a>
@@ -48,7 +48,7 @@
 
  ##
 
- ### <img height="30" src="https://cdn.discordapp.com/emojis/822146859376050196.gif?v=1"> <b>Tenho Interesse Em</b> <img height="30" src="https://cdn.discordapp.com/emojis/822146859376050196.gif?v=1">
+ ### <img height="20" src="https://cdn.discordapp.com/emojis/1163796916484714550.webp?size=128&animated=true"> <b>Tenho Interesse Em</b> <img height="20" src="https://cdn.discordapp.com/emojis/1163796916484714550.webp?size=128&animated=true">
  <img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
  <img alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
  <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
@@ -68,9 +68,11 @@
  <a href="https://www.linkedin.com/in/eduarda-steffen-69b905208" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> </br>
    
  ##
+ 
  <img height="150" src="https://media.discordapp.net/attachments/767080390241812540/889857636604997712/teste.gif">
  <img src="https://github-readme-streak-stats.herokuapp.com?user=EduardaStef&theme=tokyonight" width="500">
  <img height="150" src="https://media.discordapp.net/attachments/767080390241812540/889857636604997712/teste.gif">
 
  ![Snake animation](https://github.com/eduardaStef/eduardaStef/blob/output/github-contribution-grid-snake.svg) 
+ 
 </div>
