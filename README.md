@@ -83,10 +83,4 @@
  <img height="150" src="https://media.discordapp.net/attachments/767080390241812540/889857636604997712/teste.gif">
 
  ![Snake animation](https://github.com/eduardaStef/eduardaStef/blob/output/github-contribution-grid-snake.svg) 
- <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eduardaStef/eduardaStef/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eduardaStef/eduardaStef/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/eduardaStef/eduardaStef/output/github-contribution-grid-snake.svg">
-</picture>
- 
 </div>
