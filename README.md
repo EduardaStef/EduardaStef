@@ -82,5 +82,4 @@
  <img src="https://github-readme-streak-stats.herokuapp.com?user=EduardaStef&theme=tokyonight" width="500">
  <img height="150" src="https://media.discordapp.net/attachments/767080390241812540/889857636604997712/teste.gif">
 
- ![Snake animation](https://github.com/eduardaStef/eduardaStef/blob/output/github-contribution-grid-snake.svg) 
 </div>
