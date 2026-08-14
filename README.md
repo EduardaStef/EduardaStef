@@ -70,4 +70,12 @@
  <img src="https://github-readme-streak-stats.herokuapp.com?user=EduardaStef&theme=tokyonight" width="500">
  <img height="150" src="https://media.discordapp.net/attachments/767080390241812540/889857636604997712/teste.gif">
 
+ <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture>
+
+
 </div>
+
